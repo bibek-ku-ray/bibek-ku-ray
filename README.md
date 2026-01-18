@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm bibek ray from Kathmandu, Nepal.<br><br>- 🔭 I’m working as backend developer (Intern II).<br>- 📚 I'm currently learning GenAI.<br>- ⚡ In my free time I do nothing.</p>
+<p align="left">I'm bibek ray from Kathmandu, Nepal.<br><br>- 🔭 I’m working as full stack developer (Intern II).<br>- 📚 I'm currently learning Applied AI.<br>- ⚡ In my free time I do nothing. I think so 🫢</p>
 
 ###
 
