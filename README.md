@@ -26,15 +26,24 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm bibek ray from Kathmandu, Nepal.<br><br>- 🔭 I’m working as full stack developer (Intern II).<br>- 📚 I'm currently learning Applied AI.<br>- ⚡ In my free time I do nothing. I think so 🫢</p>
+<p align="left">
+I'm <strong>Bibek Ray</strong> — a full stack developer based in Kathmandu, Nepal. I build for the web, learn obsessively, and ship things.<br><br>
+
+  - Currently working full time as a <strong>Full Stack Developer</strong>, turning ideas into real, running systems every day.<br>
+  - Previously interned at <strong>Deerwalk Group</strong> for 6 months as a Full Stack Developer (Intern) that's where the curiosity really kicked in!<br>
+  - Currently diving deep into <strong>Applied AI</strong> and <strong>DevOps</strong> because why just build apps when you can make them <em>intelligent</em> and <em>bulletproof</em>? br>
+  - I have a soft spot for <strong>PMERN Stack</strong> and <strong>Java Spring Boot</strong> they feel like home.<br>
+  - Always asking: <em>How does this actually work under the hood?</em><br>
+  - In my free time... I probably watch and read latest tech news or explore new tools and library. Or maybe do nothing. Maybe.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
@@ -57,8 +66,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -69,18 +76,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height="40" alt="fastapi logo"  /> -->
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
