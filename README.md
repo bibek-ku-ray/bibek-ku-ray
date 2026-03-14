@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWhneGRjdzR1ZTh2ZW4zb3Azc3UxZWdvNjRnZXQ2aGE5bWo5ajUydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZFngIYWIg2QJgQQTMf/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWhneGRjdzR1ZTh2ZW4zb3Azc3UxZWdvNjRnZXQ2aGE5bWo5ajUydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZFngIYWIg2QJgQQTMf/giphy.gif"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there, i am bibek</h1>
 
 ###
 
@@ -34,8 +34,8 @@
 I'm <strong>Bibek Ray</strong> — a full stack developer based in Kathmandu, Nepal. I build for the web, learn obsessively, and ship things.<br><br>
 
   - Currently working full time as a <strong>Full Stack Developer</strong>, turning ideas into real, running systems every day.<br>
-  - Previously interned at <strong>Deerwalk Group</strong> for 6 months as a Full Stack Developer (Intern) that's where the curiosity really kicked in!<br>
-  - Currently diving deep into <strong>Applied AI</strong> and <strong>DevOps</strong> because why just build apps when you can make them <em>intelligent</em> and <em>bulletproof</em>? br>
+  - Previously interned at <strong>Deerwalk Group</strong> for 6 months as a Full Stack Developer.<br>
+  - Currently diving deep into <strong>Applied AI</strong> and <strong>DevOps</strong>. <br>
   - I have a soft spot for <strong>PMERN Stack</strong> and <strong>Java Spring Boot</strong> they feel like home.<br>
   - Always asking: <em>How does this actually work under the hood?</em><br>
   - In my free time... I probably watch and read latest tech news or explore new tools and library. Or maybe do nothing. Maybe.
