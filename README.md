@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWhneGRjdzR1ZTh2ZW4zb3Azc3UxZWdvNjRnZXQ2aGE5bWo5ajUydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZFngIYWIg2QJgQQTMf/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWhneGRjdzR1ZTh2ZW4zb3Azc3UxZWdvNjRnZXQ2aGE5bWo5ajUydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZFngIYWIg2QJgQQTMf/giphy.gif"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 ###
 
 <p align="left">
-I'm <strong>Bibek Ray</strong> — a full stack developer based in Kathmandu, Nepal. I build for the web, learn obsessively, and ship things.<br><br>
+I'm <strong>Bibek Ray</strong> a full stack developer. I build for the web, learn obsessively, and ship things.<br><br>
 
   - Currently working full time as a <strong>Full Stack Developer</strong>, turning ideas into real, running systems every day.<br>
   - Previously interned at <strong>Deerwalk Group</strong> for 6 months as a Full Stack Developer.<br>
